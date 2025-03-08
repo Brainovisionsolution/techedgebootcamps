@@ -80,23 +80,23 @@ const processSteps = [
 
 const achievements = [
   {
-    number: "50+",
-    text: "Training Programs",
+    number: "650+",
+    text: "Workshops & Hackathons",
     icon: Brain
   },
   {
-    number: "1000+",
+    number: "600+",
     text: "Partner Colleges",
     icon: Building
   },
   {
-    number: "100,000+",
+    number: "150,000+",
     text: "Students Trained",
     icon: Users
   },
   {
-    number: "20+",
-    text: "Countries Reached",
+    number: "8+",
+    text: "Working Technologies",
     icon: Globe2
   }
 ];
