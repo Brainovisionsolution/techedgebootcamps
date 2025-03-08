@@ -80,23 +80,23 @@ const processSteps = [
 
 const achievements = [
   {
-    number: "650+",
-    text: "Workshops & Hackathons",
+    number: "50+",
+    text: "Training Programs",
     icon: Brain
   },
   {
-    number: "600+",
+    number: "1000+",
     text: "Partner Colleges",
     icon: Building
   },
   {
-    number: "150,000+",
+    number: "100,000+",
     text: "Students Trained",
     icon: Users
   },
   {
-    number: "8+",
-    text: "Working Technologies",
+    number: "20+",
+    text: "Countries Reached",
     icon: Globe2
   }
 ];
@@ -113,11 +113,11 @@ const Home = () => {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
           {/* Partner Logos */}
           <div className="flex flex-wrap justify-center items-center gap-8 mb-12">
-            <img src="/public/logos/aiefrlogo.png" alt="AIEFR" className="h-12 opacity-90" />
-            <img src="/public/logos/anuvadini.png" alt="ANUVADINI" className="h-12 opacity-90" />
-            <img src="/public/logos/bovyellow.png" alt="BRAIN O VISION" className="h-12 opacity-90" />
-            <img src="/public/logos/neat.png" alt="N.E.A.T" className="h-12 opacity-90" />
-            <img src="/public/logos/aicte.png" alt="AICTE" className="h-12 opacity-90" />
+            <img src="https://brainovision.in/images/aiefr-logo.png" alt="AIEFR" className="h-12 opacity-90" />
+            <img src="https://brainovision.in/images/anuvadini-logo.png" alt="ANUVADINI" className="h-12 opacity-90" />
+            <img src="https://brainovision.in/images/brainovision-logo.png" alt="BRAIN O VISION" className="h-12 opacity-90" />
+            <img src="https://brainovision.in/images/neat-logo.png" alt="N.E.A.T" className="h-12 opacity-90" />
+            <img src="https://brainovision.in/images/aicte-logo.png" alt="AICTE" className="h-12 opacity-90" />
           </div>
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-[calc(100%-8rem)] flex items-center">
             <div className="w-full text-center">
