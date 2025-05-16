@@ -110,8 +110,8 @@ const programs = {
     }
   },
   'essential-skills': {
-    title: 'INTERNATIONAL LEVEL ESSENTIAL SKILLS TRAINING PROGRAM (ESTP) FOR STUDENTS & FACULTY',
-    dates: '07th - 11th, APR 2025',
+    title: 'NATIONAL LEVEL ESSENTIAL SKILLS TRAINING PROGRAM (ESTP) FOR STUDENTS & FACULTY',
+    dates: '23rd- 27th, APR 2025',
     time: '07:00 PM to 08:30 PM',
     audience: 'All Students & Faculties',
     fee: '49',
